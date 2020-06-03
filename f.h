@@ -2,7 +2,7 @@
 using namespace std;
 #ifndef FUNC_H
 #define FUNC_H
-#define M 40
+#define M 10
 struct rubber {
     string name;
     int alive;
